@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Movie Reviews
+
+This is the code for the front end of Movie Reviews.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
